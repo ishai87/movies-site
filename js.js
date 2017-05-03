@@ -11,10 +11,10 @@ b1.onclick=function() {
   }
   if(byear>=1000 & byear<=currentYear.getFullYear()){
     if (currentYear.getFullYear()-byear>=13) {
-      window.location.href="index.html";
+      window.location.href="adultPage.html";
     }
     else {
-    window.location.href="index2.html";
+    window.location.href="kidsPage.html";
     }
   }
 }
