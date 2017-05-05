@@ -48,7 +48,7 @@ summary {
 
   #vmButton{
       z-index:1;
-      width: 20%;
+      width: 15%;
       padding: 1%;
       font-weight: bold;
       background: black;
@@ -104,9 +104,30 @@ summary {
   }
   #title2{
     text-align: center;
-    color:white;
+    color:black;
     font-size: 200%;
     font-style: italic;
+    font-weight: 1200;
+
+  }
+  #title3{
+    text-align: center;
+    color:black;
+    font-size: 100%;
+    font-weight: 1200;
+
+  }
+  #title4{
+    text-align: center;
+    color:white;
+    font-size: 150%;
+    font-weight: 1200;
+
+  }
+  #in{
+    text-align: center;
+    color:black;
+    font-size: 100%;
     font-weight: 1200;
 
   }
